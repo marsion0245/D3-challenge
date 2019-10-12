@@ -1,3 +1,8 @@
+
+---
+permalink: /D3_data_journalism/index.html
+---
+
 # D3-challenge
 D3-challenge HW
 
