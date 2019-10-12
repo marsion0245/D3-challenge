@@ -2,4 +2,4 @@
 D3-challenge HW
 
 
-The hw page is [here](D3_data_journalism/index.html)
+The hw page is [here](https://github.com/marsion0245/D3-challenge/blob/master/D3_data_journalism/index.html)
