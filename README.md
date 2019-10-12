@@ -1,10 +1,8 @@
 
----
-permalink: /D3_data_journalism/index.html
----
 
 # D3-challenge
 D3-challenge HW
 
 
-The hw page is [here](https://github.com/marsion0245/D3-challenge/blob/master/D3_data_journalism/index.html)
+The hw page is [here](https://marsion0245.github.io/D3-challenge/index.html)
+
