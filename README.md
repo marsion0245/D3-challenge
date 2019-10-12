@@ -4,5 +4,6 @@
 D3-challenge HW
 
 
-The hw page is [here](https://marsion0245.github.io/D3-challenge/index.html)
+Please click [here](https://marsion0245.github.io/D3-challenge/index.html) to navigate to the hw page.
+
 
