@@ -50,6 +50,12 @@
   text-transform: capitalize;
   background: rgba(0, 0, 0, 0.8);
   border-radius: 4px;
+  position: absolute;
+  display: none;
+}
+
+.ignoreevents{
+	pointer-events: none;
 }
 
 /* Mobile Rules */
